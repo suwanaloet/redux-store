@@ -12,6 +12,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Shop Shop](https://powerful-escarpment-53687.herokuapp.com/)<br />
 ![Image]()<br />
 
+## Github Url/Deploy Links
+Github: https://github.com/suwanaloet/redux-store
+Deploy: https://powerful-escarpment-53687.herokuapp.com/
+
 
 ## Usage/tools/installation
 Clone the repository or download files. Run "npm install" from the root directory and the install script will check and handle package installation for root, client, and serverside folders. From there, run "npm start" to run the app in dev mode, or "npm run build" for a production version. 
