@@ -20,7 +20,8 @@ import Success from "./pages/Success";
 
 
 import store from './utils/store';
-
+// APP INFO
+//https://powerful-escarpment-53687.herokuapp.com/ | https://git.heroku.com/powerful-escarpment-53687.git
 
 const client = new ApolloClient({
   request: (operation) => {
