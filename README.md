@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed Application 
 
 [Shop Shop](https://powerful-escarpment-53687.herokuapp.com/)<br />
-![Image]()<br />
+![Image](https://raw.githubusercontent.com/suwanaloet/redux-store/master/assets/samplegif.gif)<br />
 
 ## Github Url/Deploy Links
 Github: https://github.com/suwanaloet/redux-store
